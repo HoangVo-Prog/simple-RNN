@@ -1,3 +1,2 @@
 # simple-RNN
-=======
-Text classification & Time series
+# Text classification & Time series
